@@ -1,4 +1,4 @@
-# Hanoi tower version 1.0
+# Hanoi tower version 3.0
 
 puts
 puts "### WELCOME TO TOWER OF HANOI ###"
@@ -107,11 +107,3 @@ puts
 puts "The mininum number of moves for #{discs} discs are #{minimum_moves(discs)} moves."
 puts "You made it in #{your_moves} moves in"
 puts "#{time_calculation(difference)}"
-
-# TO DO LIST!
-# only move if destination array.first > than from array.unshift ### DONE ###
-# put number of moves. ### Done ###
-# rewrite code to becomes more legible. ### Done ###
-# write instructions. ### DONE ###
-# Simplify the code. ### Done ###
-# Write an expression to calculate the mininum number of moves. ### Done ###
