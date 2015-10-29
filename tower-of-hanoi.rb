@@ -1,5 +1,4 @@
 # Hanoi tower version 3.0
-
 puts
 puts "### WELCOME TO TOWER OF HANOI ###"
 puts
